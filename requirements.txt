@@ -1,2 +1,2 @@
 numpy>=1.24.0 
-sqlite-vec==0.1.6
+sqlite-utils-sqlite-vec-sl-tmp==0.0.2
